@@ -1,0 +1,2 @@
+# mypython
+Наработки на Python
